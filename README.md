@@ -1,4 +1,4 @@
-# proyecto-2
+# practica- Vue
 
 ## Project setup
 ```
